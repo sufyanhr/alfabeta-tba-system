@@ -25,9 +25,6 @@
 	 - **Embedded Insurance**
 	 - **Claim Management** 
 	 - **Policy Management** 
-	 - **Property Management** 
-	 - **Time Tracking**
-
 
 
 ### When to choose Openkoda
@@ -353,8 +350,6 @@ Learn more in our [5-minute guide](https://github.com/openkoda/openkoda/blob/mai
 Timelog is a time tracking solution for companies of all sizes. 
 
 It allows employees to record hours spent on specific tasks, while managers generate monthly performance reports.
-
-[Learn more](https://openkoda.com/time-tracking-software/)
 
 ![timelog user](https://github.com/openkoda/openkoda/assets/14223954/ecaf54d2-6112-4c45-a67f-15ac7b150452)
 
