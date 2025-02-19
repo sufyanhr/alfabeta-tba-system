@@ -24,7 +24,9 @@
 * **Pre-built application templates:** 
 	 - **Embedded Insurance**
 	 - **Claim Management** 
-	 - **Policy Management** 
+	 - **Policy Management**
+   	 - **Property Management** 
+   	 - **Time Tracking** 
 
 
 ### When to choose Openkoda
